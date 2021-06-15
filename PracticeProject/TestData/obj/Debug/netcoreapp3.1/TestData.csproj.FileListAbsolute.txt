@@ -1,0 +1,12 @@
+E:\Dipon Working Folder\Practice\C#\PracticeProject\TestData\bin\Debug\netcoreapp3.1\TestData.exe
+E:\Dipon Working Folder\Practice\C#\PracticeProject\TestData\bin\Debug\netcoreapp3.1\TestData.deps.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\TestData\bin\Debug\netcoreapp3.1\TestData.runtimeconfig.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\TestData\bin\Debug\netcoreapp3.1\TestData.runtimeconfig.dev.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\TestData\bin\Debug\netcoreapp3.1\TestData.dll
+E:\Dipon Working Folder\Practice\C#\PracticeProject\TestData\bin\Debug\netcoreapp3.1\TestData.pdb
+E:\Dipon Working Folder\Practice\C#\PracticeProject\TestData\obj\Debug\netcoreapp3.1\TestData.AssemblyInfoInputs.cache
+E:\Dipon Working Folder\Practice\C#\PracticeProject\TestData\obj\Debug\netcoreapp3.1\TestData.AssemblyInfo.cs
+E:\Dipon Working Folder\Practice\C#\PracticeProject\TestData\obj\Debug\netcoreapp3.1\TestData.csproj.CoreCompileInputs.cache
+E:\Dipon Working Folder\Practice\C#\PracticeProject\TestData\obj\Debug\netcoreapp3.1\TestData.dll
+E:\Dipon Working Folder\Practice\C#\PracticeProject\TestData\obj\Debug\netcoreapp3.1\TestData.pdb
+E:\Dipon Working Folder\Practice\C#\PracticeProject\TestData\obj\Debug\netcoreapp3.1\TestData.genruntimeconfig.cache
