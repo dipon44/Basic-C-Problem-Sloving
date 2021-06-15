@@ -1,0 +1,12 @@
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Swap\bin\Debug\netcoreapp3.1\Swap.exe
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Swap\bin\Debug\netcoreapp3.1\Swap.deps.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Swap\bin\Debug\netcoreapp3.1\Swap.runtimeconfig.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Swap\bin\Debug\netcoreapp3.1\Swap.runtimeconfig.dev.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Swap\bin\Debug\netcoreapp3.1\Swap.dll
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Swap\bin\Debug\netcoreapp3.1\Swap.pdb
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfoInputs.cache
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfo.cs
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Swap\obj\Debug\netcoreapp3.1\Swap.csproj.CoreCompileInputs.cache
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Swap\obj\Debug\netcoreapp3.1\Swap.dll
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Swap\obj\Debug\netcoreapp3.1\Swap.pdb
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Swap\obj\Debug\netcoreapp3.1\Swap.genruntimeconfig.cache

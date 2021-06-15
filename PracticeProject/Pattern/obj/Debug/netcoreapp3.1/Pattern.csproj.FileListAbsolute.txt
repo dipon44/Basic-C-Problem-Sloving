@@ -1,0 +1,12 @@
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Pattern\bin\Debug\netcoreapp3.1\Pattern.exe
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Pattern\bin\Debug\netcoreapp3.1\Pattern.deps.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.dev.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Pattern\bin\Debug\netcoreapp3.1\Pattern.dll
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Pattern\bin\Debug\netcoreapp3.1\Pattern.pdb
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfoInputs.cache
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfo.cs
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Pattern\obj\Debug\netcoreapp3.1\Pattern.csproj.CoreCompileInputs.cache
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Pattern\obj\Debug\netcoreapp3.1\Pattern.dll
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Pattern\obj\Debug\netcoreapp3.1\Pattern.pdb
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Pattern\obj\Debug\netcoreapp3.1\Pattern.genruntimeconfig.cache

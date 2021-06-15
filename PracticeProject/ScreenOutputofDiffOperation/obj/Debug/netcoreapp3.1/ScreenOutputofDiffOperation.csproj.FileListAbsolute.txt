@@ -1,0 +1,12 @@
+E:\Dipon Working Folder\Practice\C#\PracticeProject\ScreenOutputofDiffOperation\bin\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.exe
+E:\Dipon Working Folder\Practice\C#\PracticeProject\ScreenOutputofDiffOperation\bin\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.deps.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\ScreenOutputofDiffOperation\bin\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.runtimeconfig.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\ScreenOutputofDiffOperation\bin\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.runtimeconfig.dev.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\ScreenOutputofDiffOperation\bin\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.dll
+E:\Dipon Working Folder\Practice\C#\PracticeProject\ScreenOutputofDiffOperation\bin\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.pdb
+E:\Dipon Working Folder\Practice\C#\PracticeProject\ScreenOutputofDiffOperation\obj\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.AssemblyInfoInputs.cache
+E:\Dipon Working Folder\Practice\C#\PracticeProject\ScreenOutputofDiffOperation\obj\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.AssemblyInfo.cs
+E:\Dipon Working Folder\Practice\C#\PracticeProject\ScreenOutputofDiffOperation\obj\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.csproj.CoreCompileInputs.cache
+E:\Dipon Working Folder\Practice\C#\PracticeProject\ScreenOutputofDiffOperation\obj\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.dll
+E:\Dipon Working Folder\Practice\C#\PracticeProject\ScreenOutputofDiffOperation\obj\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.pdb
+E:\Dipon Working Folder\Practice\C#\PracticeProject\ScreenOutputofDiffOperation\obj\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\Dipon Working Folder\Practice\C#\PracticeProject\PrintOfInput\bin\Debug\netcoreapp3.1\PrintOfInput.exe
+E:\Dipon Working Folder\Practice\C#\PracticeProject\PrintOfInput\bin\Debug\netcoreapp3.1\PrintOfInput.deps.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\PrintOfInput\bin\Debug\netcoreapp3.1\PrintOfInput.runtimeconfig.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\PrintOfInput\bin\Debug\netcoreapp3.1\PrintOfInput.runtimeconfig.dev.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\PrintOfInput\bin\Debug\netcoreapp3.1\PrintOfInput.dll
+E:\Dipon Working Folder\Practice\C#\PracticeProject\PrintOfInput\bin\Debug\netcoreapp3.1\PrintOfInput.pdb
+E:\Dipon Working Folder\Practice\C#\PracticeProject\PrintOfInput\obj\Debug\netcoreapp3.1\PrintOfInput.AssemblyInfoInputs.cache
+E:\Dipon Working Folder\Practice\C#\PracticeProject\PrintOfInput\obj\Debug\netcoreapp3.1\PrintOfInput.AssemblyInfo.cs
+E:\Dipon Working Folder\Practice\C#\PracticeProject\PrintOfInput\obj\Debug\netcoreapp3.1\PrintOfInput.csproj.CoreCompileInputs.cache
+E:\Dipon Working Folder\Practice\C#\PracticeProject\PrintOfInput\obj\Debug\netcoreapp3.1\PrintOfInput.dll
+E:\Dipon Working Folder\Practice\C#\PracticeProject\PrintOfInput\obj\Debug\netcoreapp3.1\PrintOfInput.pdb
+E:\Dipon Working Folder\Practice\C#\PracticeProject\PrintOfInput\obj\Debug\netcoreapp3.1\PrintOfInput.genruntimeconfig.cache

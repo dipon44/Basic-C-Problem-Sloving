@@ -1,0 +1,12 @@
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Sum\bin\Debug\netcoreapp3.1\Sum.exe
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Sum\bin\Debug\netcoreapp3.1\Sum.deps.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.dev.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Sum\bin\Debug\netcoreapp3.1\Sum.dll
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Sum\bin\Debug\netcoreapp3.1\Sum.pdb
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfoInputs.cache
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfo.cs
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Sum\obj\Debug\netcoreapp3.1\Sum.csproj.CoreCompileInputs.cache
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Sum\obj\Debug\netcoreapp3.1\Sum.dll
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Sum\obj\Debug\netcoreapp3.1\Sum.pdb
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Sum\obj\Debug\netcoreapp3.1\Sum.genruntimeconfig.cache

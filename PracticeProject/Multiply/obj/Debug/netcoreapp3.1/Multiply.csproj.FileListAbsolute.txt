@@ -1,0 +1,12 @@
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Multiply\bin\Debug\netcoreapp3.1\Multiply.exe
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Multiply\bin\Debug\netcoreapp3.1\Multiply.deps.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Multiply\bin\Debug\netcoreapp3.1\Multiply.runtimeconfig.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Multiply\bin\Debug\netcoreapp3.1\Multiply.runtimeconfig.dev.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Multiply\bin\Debug\netcoreapp3.1\Multiply.dll
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Multiply\bin\Debug\netcoreapp3.1\Multiply.pdb
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Multiply\obj\Debug\netcoreapp3.1\Multiply.AssemblyInfoInputs.cache
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Multiply\obj\Debug\netcoreapp3.1\Multiply.AssemblyInfo.cs
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Multiply\obj\Debug\netcoreapp3.1\Multiply.csproj.CoreCompileInputs.cache
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Multiply\obj\Debug\netcoreapp3.1\Multiply.dll
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Multiply\obj\Debug\netcoreapp3.1\Multiply.pdb
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Multiply\obj\Debug\netcoreapp3.1\Multiply.genruntimeconfig.cache

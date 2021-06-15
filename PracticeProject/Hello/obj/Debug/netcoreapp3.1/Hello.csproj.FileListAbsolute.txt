@@ -1,0 +1,13 @@
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Hello\bin\Debug\netcoreapp3.1\Hello.exe
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Hello\bin\Debug\netcoreapp3.1\Hello.deps.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.dev.json
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Hello\bin\Debug\netcoreapp3.1\Hello.dll
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Hello\bin\Debug\netcoreapp3.1\Hello.pdb
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.csproj.AssemblyReference.cache
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfoInputs.cache
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfo.cs
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.csproj.CoreCompileInputs.cache
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.dll
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.pdb
+E:\Dipon Working Folder\Practice\C#\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.genruntimeconfig.cache
