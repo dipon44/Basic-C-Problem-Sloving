@@ -1,0 +1,13 @@
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\bin\Debug\netcoreapp3.1\AbsoluteValue.exe
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\bin\Debug\netcoreapp3.1\AbsoluteValue.deps.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\bin\Debug\netcoreapp3.1\AbsoluteValue.runtimeconfig.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\bin\Debug\netcoreapp3.1\AbsoluteValue.runtimeconfig.dev.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\bin\Debug\netcoreapp3.1\AbsoluteValue.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\bin\Debug\netcoreapp3.1\AbsoluteValue.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.csprojAssemblyReference.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.AssemblyInfoInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.AssemblyInfo.cs
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.csproj.CoreCompileInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.genruntimeconfig.cache

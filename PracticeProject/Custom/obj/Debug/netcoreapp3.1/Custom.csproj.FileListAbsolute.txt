@@ -1,0 +1,13 @@
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\Custom\bin\Debug\netcoreapp3.1\Custom.exe
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\Custom\bin\Debug\netcoreapp3.1\Custom.deps.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\Custom\bin\Debug\netcoreapp3.1\Custom.runtimeconfig.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\Custom\bin\Debug\netcoreapp3.1\Custom.runtimeconfig.dev.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\Custom\bin\Debug\netcoreapp3.1\Custom.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\Custom\bin\Debug\netcoreapp3.1\Custom.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\Custom\obj\Debug\netcoreapp3.1\Custom.csprojAssemblyReference.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\Custom\obj\Debug\netcoreapp3.1\Custom.AssemblyInfoInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\Custom\obj\Debug\netcoreapp3.1\Custom.AssemblyInfo.cs
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\Custom\obj\Debug\netcoreapp3.1\Custom.csproj.CoreCompileInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\Custom\obj\Debug\netcoreapp3.1\Custom.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\Custom\obj\Debug\netcoreapp3.1\Custom.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\Custom\obj\Debug\netcoreapp3.1\Custom.genruntimeconfig.cache

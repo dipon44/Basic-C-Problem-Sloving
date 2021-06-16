@@ -1,0 +1,13 @@
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\bin\Debug\netcoreapp3.1\EvenOddTrueFalse.exe
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\bin\Debug\netcoreapp3.1\EvenOddTrueFalse.deps.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\bin\Debug\netcoreapp3.1\EvenOddTrueFalse.runtimeconfig.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\bin\Debug\netcoreapp3.1\EvenOddTrueFalse.runtimeconfig.dev.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\bin\Debug\netcoreapp3.1\EvenOddTrueFalse.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\bin\Debug\netcoreapp3.1\EvenOddTrueFalse.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\obj\Debug\netcoreapp3.1\EvenOddTrueFalse.csprojAssemblyReference.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\obj\Debug\netcoreapp3.1\EvenOddTrueFalse.AssemblyInfoInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\obj\Debug\netcoreapp3.1\EvenOddTrueFalse.AssemblyInfo.cs
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\obj\Debug\netcoreapp3.1\EvenOddTrueFalse.csproj.CoreCompileInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\obj\Debug\netcoreapp3.1\EvenOddTrueFalse.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\obj\Debug\netcoreapp3.1\EvenOddTrueFalse.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\obj\Debug\netcoreapp3.1\EvenOddTrueFalse.genruntimeconfig.cache

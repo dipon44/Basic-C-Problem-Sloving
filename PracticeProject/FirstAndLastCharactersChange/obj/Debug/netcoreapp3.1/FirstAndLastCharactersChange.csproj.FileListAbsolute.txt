@@ -1,0 +1,13 @@
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\bin\Debug\netcoreapp3.1\FirstAndLastCharactersChange.exe
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\bin\Debug\netcoreapp3.1\FirstAndLastCharactersChange.deps.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\bin\Debug\netcoreapp3.1\FirstAndLastCharactersChange.runtimeconfig.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\bin\Debug\netcoreapp3.1\FirstAndLastCharactersChange.runtimeconfig.dev.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\bin\Debug\netcoreapp3.1\FirstAndLastCharactersChange.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\bin\Debug\netcoreapp3.1\FirstAndLastCharactersChange.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\obj\Debug\netcoreapp3.1\FirstAndLastCharactersChange.csprojAssemblyReference.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\obj\Debug\netcoreapp3.1\FirstAndLastCharactersChange.AssemblyInfoInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\obj\Debug\netcoreapp3.1\FirstAndLastCharactersChange.AssemblyInfo.cs
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\obj\Debug\netcoreapp3.1\FirstAndLastCharactersChange.csproj.CoreCompileInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\obj\Debug\netcoreapp3.1\FirstAndLastCharactersChange.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\obj\Debug\netcoreapp3.1\FirstAndLastCharactersChange.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\obj\Debug\netcoreapp3.1\FirstAndLastCharactersChange.genruntimeconfig.cache

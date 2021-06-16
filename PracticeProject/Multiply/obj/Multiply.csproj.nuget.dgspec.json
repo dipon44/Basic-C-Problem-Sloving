@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Dipon Working Folder\\Practice\\C#\\PracticeProject\\Multiply\\Multiply.csproj": {}
+    "D:\\Dipon&Shojib\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Multiply\\Multiply.csproj": {}
   },
   "projects": {
-    "E:\\Dipon Working Folder\\Practice\\C#\\PracticeProject\\Multiply\\Multiply.csproj": {
+    "D:\\Dipon&Shojib\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Multiply\\Multiply.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Dipon Working Folder\\Practice\\C#\\PracticeProject\\Multiply\\Multiply.csproj",
+        "projectUniqueName": "D:\\Dipon&Shojib\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Multiply\\Multiply.csproj",
         "projectName": "Multiply",
-        "projectPath": "E:\\Dipon Working Folder\\Practice\\C#\\PracticeProject\\Multiply\\Multiply.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Dipon Working Folder\\Practice\\C#\\PracticeProject\\Multiply\\obj\\",
+        "projectPath": "D:\\Dipon&Shojib\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Multiply\\Multiply.csproj",
+        "packagesPath": "C:\\Users\\Innstar General PC\\.nuget\\packages\\",
+        "outputPath": "D:\\Dipon&Shojib\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Multiply\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Innstar General PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

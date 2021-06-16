@@ -1,0 +1,13 @@
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.exe
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.deps.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.runtimeconfig.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.runtimeconfig.dev.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.csprojAssemblyReference.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.AssemblyInfoInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.AssemblyInfo.cs
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.csproj.CoreCompileInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.genruntimeconfig.cache
