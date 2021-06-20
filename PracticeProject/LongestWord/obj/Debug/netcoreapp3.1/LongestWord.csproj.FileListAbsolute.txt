@@ -1,0 +1,13 @@
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.exe
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.deps.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.runtimeconfig.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.runtimeconfig.dev.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.csprojAssemblyReference.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.AssemblyInfoInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.AssemblyInfo.cs
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.csproj.CoreCompileInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.genruntimeconfig.cache

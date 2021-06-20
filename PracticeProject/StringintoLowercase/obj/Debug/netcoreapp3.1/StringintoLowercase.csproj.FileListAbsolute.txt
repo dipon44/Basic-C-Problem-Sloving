@@ -1,0 +1,13 @@
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\bin\Debug\netcoreapp3.1\StringintoLowercase.exe
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\bin\Debug\netcoreapp3.1\StringintoLowercase.deps.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\bin\Debug\netcoreapp3.1\StringintoLowercase.runtimeconfig.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\bin\Debug\netcoreapp3.1\StringintoLowercase.runtimeconfig.dev.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\bin\Debug\netcoreapp3.1\StringintoLowercase.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\bin\Debug\netcoreapp3.1\StringintoLowercase.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.csprojAssemblyReference.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.AssemblyInfoInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.AssemblyInfo.cs
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.csproj.CoreCompileInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.genruntimeconfig.cache

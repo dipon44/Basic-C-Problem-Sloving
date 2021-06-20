@@ -25,21 +25,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintOfInput", "PrintOfInpu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestData", "TestData\TestData.csproj", "{56A07475-CD4A-4466-AC0D-29C325FBF3D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangular", "Rectangular\Rectangular.csproj", "{C843E092-BB10-40D0-937D-3A57F4D8508B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rectangular", "Rectangular\Rectangular.csproj", "{C843E092-BB10-40D0-937D-3A57F4D8508B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelsiusToKelvinandFahrenheit", "CelsiusToKelvinandFahrenheit\CelsiusToKelvinandFahrenheit.csproj", "{B89FE8C4-06F6-4B13-9D0E-7A696DB4E416}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CelsiusToKelvinandFahrenheit", "CelsiusToKelvinandFahrenheit\CelsiusToKelvinandFahrenheit.csproj", "{B89FE8C4-06F6-4B13-9D0E-7A696DB4E416}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecifiedCharacter", "SpecifiedCharacter\SpecifiedCharacter.csproj", "{453A9272-2DAC-497B-AA38-C07B3F019800}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpecifiedCharacter", "SpecifiedCharacter\SpecifiedCharacter.csproj", "{453A9272-2DAC-497B-AA38-C07B3F019800}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstAndLastCharactersChange", "FirstAndLastCharactersChange\FirstAndLastCharactersChange.csproj", "{653ED2FC-10CE-4AB9-9B49-5D903B77B04B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstAndLastCharactersChange", "FirstAndLastCharactersChange\FirstAndLastCharactersChange.csproj", "{653ED2FC-10CE-4AB9-9B49-5D903B77B04B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCharacter", "StringCharacter\StringCharacter.csproj", "{9C280820-1123-4C6E-A4A9-5A6EB4C73DEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringCharacter", "StringCharacter\StringCharacter.csproj", "{9C280820-1123-4C6E-A4A9-5A6EB4C73DEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOddTrueFalse", "EvenOddTrueFalse\EvenOddTrueFalse.csproj", "{8A0C6E9E-0759-4F4D-8BC3-27CAAC597937}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenOddTrueFalse", "EvenOddTrueFalse\EvenOddTrueFalse.csproj", "{8A0C6E9E-0759-4F4D-8BC3-27CAAC597937}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom", "Custom\Custom.csproj", "{A4988765-6457-48C1-82B7-818F03AA6C70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Custom", "Custom\Custom.csproj", "{A4988765-6457-48C1-82B7-818F03AA6C70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsoluteValue", "AbsoluteValue\AbsoluteValue.csproj", "{7936D529-40C7-46E2-A960-425216DDD289}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbsoluteValue", "AbsoluteValue\AbsoluteValue.csproj", "{7936D529-40C7-46E2-A960-425216DDD289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckTheSum", "CheckTheSum\CheckTheSum.csproj", "{773E4055-2B09-4E2A-B945-DFD5AF681612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GivenIntegerIsWithin20", "GivenIntegerIsWithin20\GivenIntegerIsWithin20.csproj", "{F24E5714-F673-4912-85B2-BF53B046C298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringintoLowercase", "StringintoLowercase\StringintoLowercase.csproj", "{51F19CF9-1AEA-479A-A5C2-BBE237757001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestWord", "LongestWord\LongestWord.csproj", "{F57607C2-2A68-4160-94E8-0DE043489651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODDNumber", "ODDNumber\ODDNumber.csproj", "{1F327636-8E20-4576-9BB2-FD7A3A8A8C49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +133,26 @@ Global
 		{7936D529-40C7-46E2-A960-425216DDD289}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7936D529-40C7-46E2-A960-425216DDD289}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7936D529-40C7-46E2-A960-425216DDD289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{773E4055-2B09-4E2A-B945-DFD5AF681612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773E4055-2B09-4E2A-B945-DFD5AF681612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773E4055-2B09-4E2A-B945-DFD5AF681612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773E4055-2B09-4E2A-B945-DFD5AF681612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24E5714-F673-4912-85B2-BF53B046C298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24E5714-F673-4912-85B2-BF53B046C298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24E5714-F673-4912-85B2-BF53B046C298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24E5714-F673-4912-85B2-BF53B046C298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F19CF9-1AEA-479A-A5C2-BBE237757001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F19CF9-1AEA-479A-A5C2-BBE237757001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F19CF9-1AEA-479A-A5C2-BBE237757001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F19CF9-1AEA-479A-A5C2-BBE237757001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57607C2-2A68-4160-94E8-0DE043489651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57607C2-2A68-4160-94E8-0DE043489651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57607C2-2A68-4160-94E8-0DE043489651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57607C2-2A68-4160-94E8-0DE043489651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F327636-8E20-4576-9BB2-FD7A3A8A8C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F327636-8E20-4576-9BB2-FD7A3A8A8C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F327636-8E20-4576-9BB2-FD7A3A8A8C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F327636-8E20-4576-9BB2-FD7A3A8A8C49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\bin\Debug\netcoreapp3.1\CheckTheSum.exe
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\bin\Debug\netcoreapp3.1\CheckTheSum.deps.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\bin\Debug\netcoreapp3.1\CheckTheSum.runtimeconfig.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\bin\Debug\netcoreapp3.1\CheckTheSum.runtimeconfig.dev.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\bin\Debug\netcoreapp3.1\CheckTheSum.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\bin\Debug\netcoreapp3.1\CheckTheSum.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.csprojAssemblyReference.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.AssemblyInfoInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.AssemblyInfo.cs
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.csproj.CoreCompileInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.genruntimeconfig.cache

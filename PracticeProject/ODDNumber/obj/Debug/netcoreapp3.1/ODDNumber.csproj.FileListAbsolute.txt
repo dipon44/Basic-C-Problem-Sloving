@@ -1,0 +1,13 @@
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\bin\Debug\netcoreapp3.1\ODDNumber.exe
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\bin\Debug\netcoreapp3.1\ODDNumber.deps.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\bin\Debug\netcoreapp3.1\ODDNumber.runtimeconfig.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\bin\Debug\netcoreapp3.1\ODDNumber.runtimeconfig.dev.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\bin\Debug\netcoreapp3.1\ODDNumber.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\bin\Debug\netcoreapp3.1\ODDNumber.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.csprojAssemblyReference.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.AssemblyInfoInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.AssemblyInfo.cs
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.csproj.CoreCompileInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.genruntimeconfig.cache

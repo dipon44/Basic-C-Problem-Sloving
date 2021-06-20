@@ -1,0 +1,13 @@
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenIntegerIsWithin20\bin\Debug\netcoreapp3.1\GivenIntegerIsWithin20.exe
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenIntegerIsWithin20\bin\Debug\netcoreapp3.1\GivenIntegerIsWithin20.deps.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenIntegerIsWithin20\bin\Debug\netcoreapp3.1\GivenIntegerIsWithin20.runtimeconfig.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenIntegerIsWithin20\bin\Debug\netcoreapp3.1\GivenIntegerIsWithin20.runtimeconfig.dev.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenIntegerIsWithin20\bin\Debug\netcoreapp3.1\GivenIntegerIsWithin20.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenIntegerIsWithin20\bin\Debug\netcoreapp3.1\GivenIntegerIsWithin20.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenIntegerIsWithin20\obj\Debug\netcoreapp3.1\GivenIntegerIsWithin20.csprojAssemblyReference.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenIntegerIsWithin20\obj\Debug\netcoreapp3.1\GivenIntegerIsWithin20.AssemblyInfoInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenIntegerIsWithin20\obj\Debug\netcoreapp3.1\GivenIntegerIsWithin20.AssemblyInfo.cs
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenIntegerIsWithin20\obj\Debug\netcoreapp3.1\GivenIntegerIsWithin20.csproj.CoreCompileInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenIntegerIsWithin20\obj\Debug\netcoreapp3.1\GivenIntegerIsWithin20.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenIntegerIsWithin20\obj\Debug\netcoreapp3.1\GivenIntegerIsWithin20.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenIntegerIsWithin20\obj\Debug\netcoreapp3.1\GivenIntegerIsWithin20.genruntimeconfig.cache
