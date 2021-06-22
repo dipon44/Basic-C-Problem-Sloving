@@ -41,15 +41,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Custom", "Custom\Custom.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbsoluteValue", "AbsoluteValue\AbsoluteValue.csproj", "{7936D529-40C7-46E2-A960-425216DDD289}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckTheSum", "CheckTheSum\CheckTheSum.csproj", "{773E4055-2B09-4E2A-B945-DFD5AF681612}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckTheSum", "CheckTheSum\CheckTheSum.csproj", "{773E4055-2B09-4E2A-B945-DFD5AF681612}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GivenIntegerIsWithin20", "GivenIntegerIsWithin20\GivenIntegerIsWithin20.csproj", "{F24E5714-F673-4912-85B2-BF53B046C298}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GivenIntegerIsWithin20", "GivenIntegerIsWithin20\GivenIntegerIsWithin20.csproj", "{F24E5714-F673-4912-85B2-BF53B046C298}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringintoLowercase", "StringintoLowercase\StringintoLowercase.csproj", "{51F19CF9-1AEA-479A-A5C2-BBE237757001}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringintoLowercase", "StringintoLowercase\StringintoLowercase.csproj", "{51F19CF9-1AEA-479A-A5C2-BBE237757001}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestWord", "LongestWord\LongestWord.csproj", "{F57607C2-2A68-4160-94E8-0DE043489651}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestWord", "LongestWord\LongestWord.csproj", "{F57607C2-2A68-4160-94E8-0DE043489651}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODDNumber", "ODDNumber\ODDNumber.csproj", "{1F327636-8E20-4576-9BB2-FD7A3A8A8C49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ODDNumber", "ODDNumber\ODDNumber.csproj", "{1F327636-8E20-4576-9BB2-FD7A3A8A8C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfFirst500PrimeNumbers", "SumOfFirst500PrimeNumbers\SumOfFirst500PrimeNumbers.csproj", "{E2C5A846-98E0-4E03-97F5-B9EEF504D8D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPrimeOrNot", "IsPrimeOrNot\IsPrimeOrNot.csproj", "{49747BBB-1256-468F-B282-616F3CFAEC22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +157,14 @@ Global
 		{1F327636-8E20-4576-9BB2-FD7A3A8A8C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F327636-8E20-4576-9BB2-FD7A3A8A8C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F327636-8E20-4576-9BB2-FD7A3A8A8C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C5A846-98E0-4E03-97F5-B9EEF504D8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C5A846-98E0-4E03-97F5-B9EEF504D8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C5A846-98E0-4E03-97F5-B9EEF504D8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C5A846-98E0-4E03-97F5-B9EEF504D8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49747BBB-1256-468F-B282-616F3CFAEC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49747BBB-1256-468F-B282-616F3CFAEC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49747BBB-1256-468F-B282-616F3CFAEC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49747BBB-1256-468F-B282-616F3CFAEC22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

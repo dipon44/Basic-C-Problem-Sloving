@@ -1,0 +1,13 @@
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\SumOfFirst500PrimeNumbers\bin\Debug\netcoreapp3.1\SumOfFirst500PrimeNumbers.exe
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\SumOfFirst500PrimeNumbers\bin\Debug\netcoreapp3.1\SumOfFirst500PrimeNumbers.deps.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\SumOfFirst500PrimeNumbers\bin\Debug\netcoreapp3.1\SumOfFirst500PrimeNumbers.runtimeconfig.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\SumOfFirst500PrimeNumbers\bin\Debug\netcoreapp3.1\SumOfFirst500PrimeNumbers.runtimeconfig.dev.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\SumOfFirst500PrimeNumbers\bin\Debug\netcoreapp3.1\SumOfFirst500PrimeNumbers.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\SumOfFirst500PrimeNumbers\bin\Debug\netcoreapp3.1\SumOfFirst500PrimeNumbers.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\SumOfFirst500PrimeNumbers\obj\Debug\netcoreapp3.1\SumOfFirst500PrimeNumbers.csprojAssemblyReference.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\SumOfFirst500PrimeNumbers\obj\Debug\netcoreapp3.1\SumOfFirst500PrimeNumbers.AssemblyInfoInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\SumOfFirst500PrimeNumbers\obj\Debug\netcoreapp3.1\SumOfFirst500PrimeNumbers.AssemblyInfo.cs
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\SumOfFirst500PrimeNumbers\obj\Debug\netcoreapp3.1\SumOfFirst500PrimeNumbers.csproj.CoreCompileInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\SumOfFirst500PrimeNumbers\obj\Debug\netcoreapp3.1\SumOfFirst500PrimeNumbers.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\SumOfFirst500PrimeNumbers\obj\Debug\netcoreapp3.1\SumOfFirst500PrimeNumbers.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\SumOfFirst500PrimeNumbers\obj\Debug\netcoreapp3.1\SumOfFirst500PrimeNumbers.genruntimeconfig.cache

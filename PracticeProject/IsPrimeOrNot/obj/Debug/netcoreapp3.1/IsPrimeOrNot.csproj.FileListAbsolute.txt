@@ -1,0 +1,13 @@
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\bin\Debug\netcoreapp3.1\IsPrimeOrNot.exe
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\bin\Debug\netcoreapp3.1\IsPrimeOrNot.deps.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\bin\Debug\netcoreapp3.1\IsPrimeOrNot.runtimeconfig.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\bin\Debug\netcoreapp3.1\IsPrimeOrNot.runtimeconfig.dev.json
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\bin\Debug\netcoreapp3.1\IsPrimeOrNot.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\bin\Debug\netcoreapp3.1\IsPrimeOrNot.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.csprojAssemblyReference.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.AssemblyInfoInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.AssemblyInfo.cs
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.csproj.CoreCompileInputs.cache
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.dll
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.pdb
+D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.genruntimeconfig.cache

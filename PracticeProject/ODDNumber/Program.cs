@@ -6,7 +6,6 @@ namespace ODDNumber
     {
         //Problem 25
         
-
         static void Main(string[] args)
         {
             for(; ; )
