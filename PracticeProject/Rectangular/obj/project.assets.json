@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Innstar General PC\\.nuget\\packages\\": {}
+    "C:\\Users\\dipon\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dipon&Shojib\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Rectangular\\Rectangular.csproj",
+      "projectUniqueName": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Rectangular\\Rectangular.csproj",
       "projectName": "Rectangular",
-      "projectPath": "D:\\Dipon&Shojib\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Rectangular\\Rectangular.csproj",
-      "packagesPath": "C:\\Users\\Innstar General PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Dipon&Shojib\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Rectangular\\obj\\",
+      "projectPath": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Rectangular\\Rectangular.csproj",
+      "packagesPath": "C:\\Users\\dipon\\.nuget\\packages\\",
+      "outputPath": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Rectangular\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Innstar General PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dipon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +36,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -44,7 +47,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -60,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

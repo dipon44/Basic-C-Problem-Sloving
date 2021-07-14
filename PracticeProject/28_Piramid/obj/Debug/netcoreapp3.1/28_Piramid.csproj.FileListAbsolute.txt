@@ -1,0 +1,12 @@
+F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\28_Piramid\bin\Debug\netcoreapp3.1\28_Piramid.exe
+F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\28_Piramid\bin\Debug\netcoreapp3.1\28_Piramid.deps.json
+F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\28_Piramid\bin\Debug\netcoreapp3.1\28_Piramid.runtimeconfig.json
+F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\28_Piramid\bin\Debug\netcoreapp3.1\28_Piramid.runtimeconfig.dev.json
+F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\28_Piramid\bin\Debug\netcoreapp3.1\28_Piramid.dll
+F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\28_Piramid\bin\Debug\netcoreapp3.1\28_Piramid.pdb
+F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\28_Piramid\obj\Debug\netcoreapp3.1\28_Piramid.AssemblyInfoInputs.cache
+F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\28_Piramid\obj\Debug\netcoreapp3.1\28_Piramid.AssemblyInfo.cs
+F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\28_Piramid\obj\Debug\netcoreapp3.1\28_Piramid.csproj.CoreCompileInputs.cache
+F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\28_Piramid\obj\Debug\netcoreapp3.1\28_Piramid.dll
+F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\28_Piramid\obj\Debug\netcoreapp3.1\28_Piramid.pdb
+F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\28_Piramid\obj\Debug\netcoreapp3.1\28_Piramid.genruntimeconfig.cache
