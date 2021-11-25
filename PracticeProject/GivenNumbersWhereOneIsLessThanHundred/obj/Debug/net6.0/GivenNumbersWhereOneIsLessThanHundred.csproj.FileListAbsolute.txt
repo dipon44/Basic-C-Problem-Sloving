@@ -1,0 +1,14 @@
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenNumbersWhereOneIsLessThanHundred\bin\Debug\net6.0\GivenNumbersWhereOneIsLessThanHundred.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenNumbersWhereOneIsLessThanHundred\bin\Debug\net6.0\GivenNumbersWhereOneIsLessThanHundred.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenNumbersWhereOneIsLessThanHundred\bin\Debug\net6.0\GivenNumbersWhereOneIsLessThanHundred.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenNumbersWhereOneIsLessThanHundred\bin\Debug\net6.0\GivenNumbersWhereOneIsLessThanHundred.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenNumbersWhereOneIsLessThanHundred\bin\Debug\net6.0\ref\GivenNumbersWhereOneIsLessThanHundred.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenNumbersWhereOneIsLessThanHundred\bin\Debug\net6.0\GivenNumbersWhereOneIsLessThanHundred.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenNumbersWhereOneIsLessThanHundred\obj\Debug\net6.0\GivenNumbersWhereOneIsLessThanHundred.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenNumbersWhereOneIsLessThanHundred\obj\Debug\net6.0\GivenNumbersWhereOneIsLessThanHundred.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenNumbersWhereOneIsLessThanHundred\obj\Debug\net6.0\GivenNumbersWhereOneIsLessThanHundred.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenNumbersWhereOneIsLessThanHundred\obj\Debug\net6.0\GivenNumbersWhereOneIsLessThanHundred.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenNumbersWhereOneIsLessThanHundred\obj\Debug\net6.0\GivenNumbersWhereOneIsLessThanHundred.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenNumbersWhereOneIsLessThanHundred\obj\Debug\net6.0\ref\GivenNumbersWhereOneIsLessThanHundred.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenNumbersWhereOneIsLessThanHundred\obj\Debug\net6.0\GivenNumbersWhereOneIsLessThanHundred.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenNumbersWhereOneIsLessThanHundred\obj\Debug\net6.0\GivenNumbersWhereOneIsLessThanHundred.genruntimeconfig.cache

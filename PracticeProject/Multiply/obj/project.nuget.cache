@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "j8GYgKs954Wkks3K+7mjkurzprrhMh0SxEPWczB/V2zmtghUGDzqnA/abvcXEXLlHGD3jlTVd/QqtvF9Qg66xQ==",
+  "dgSpecHash": "JrUX44jaKTlVd1oTGk7JVV00y/ua17jCCNKM+QhKZ9ytRfPT3fJ/e99kbwyXxhxDsfyEE44203S7xfaSFj+6Tw==",
   "success": true,
-  "projectFilePath": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Multiply\\Multiply.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\DEVS\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Multiply\\Multiply.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

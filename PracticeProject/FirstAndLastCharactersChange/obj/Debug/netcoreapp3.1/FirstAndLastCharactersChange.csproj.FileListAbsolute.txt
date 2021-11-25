@@ -11,3 +11,16 @@ D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharac
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\obj\Debug\netcoreapp3.1\FirstAndLastCharactersChange.dll
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\obj\Debug\netcoreapp3.1\FirstAndLastCharactersChange.pdb
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\obj\Debug\netcoreapp3.1\FirstAndLastCharactersChange.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\bin\Debug\netcoreapp3.1\FirstAndLastCharactersChange.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\bin\Debug\netcoreapp3.1\FirstAndLastCharactersChange.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\bin\Debug\netcoreapp3.1\FirstAndLastCharactersChange.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\bin\Debug\netcoreapp3.1\FirstAndLastCharactersChange.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\bin\Debug\netcoreapp3.1\FirstAndLastCharactersChange.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\bin\Debug\netcoreapp3.1\FirstAndLastCharactersChange.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\obj\Debug\netcoreapp3.1\FirstAndLastCharactersChange.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\obj\Debug\netcoreapp3.1\FirstAndLastCharactersChange.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\obj\Debug\netcoreapp3.1\FirstAndLastCharactersChange.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\obj\Debug\netcoreapp3.1\FirstAndLastCharactersChange.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\obj\Debug\netcoreapp3.1\FirstAndLastCharactersChange.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\obj\Debug\netcoreapp3.1\FirstAndLastCharactersChange.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FirstAndLastCharactersChange\obj\Debug\netcoreapp3.1\FirstAndLastCharactersChange.genruntimeconfig.cache

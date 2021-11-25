@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "q0jadWoIJnqSEnenUJHpypWuVNHOav8lISgdenV/tTSGUUVFOd+XLnuhSn/cKNIY0uYsV9FuMbJhGHgPqx+wVA==",
+  "dgSpecHash": "7qUHqFemubmgu7dzG6w9yvIMFh/L2HVl8Bnv3SXkUBfxhrGK3cnSfTFKKNcvMZlC6nwzVkYWvht4mzV/pwWxxg==",
   "success": true,
-  "projectFilePath": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\28_Piramid\\28_Piramid.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\DEVS\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\28_Piramid\\28_Piramid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

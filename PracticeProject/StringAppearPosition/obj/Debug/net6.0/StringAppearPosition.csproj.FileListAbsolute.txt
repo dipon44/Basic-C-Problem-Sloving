@@ -1,0 +1,14 @@
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringAppearPosition\bin\Debug\net6.0\StringAppearPosition.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringAppearPosition\bin\Debug\net6.0\StringAppearPosition.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringAppearPosition\bin\Debug\net6.0\StringAppearPosition.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringAppearPosition\bin\Debug\net6.0\StringAppearPosition.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringAppearPosition\bin\Debug\net6.0\ref\StringAppearPosition.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringAppearPosition\bin\Debug\net6.0\StringAppearPosition.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringAppearPosition\obj\Debug\net6.0\StringAppearPosition.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringAppearPosition\obj\Debug\net6.0\StringAppearPosition.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringAppearPosition\obj\Debug\net6.0\StringAppearPosition.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringAppearPosition\obj\Debug\net6.0\StringAppearPosition.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringAppearPosition\obj\Debug\net6.0\StringAppearPosition.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringAppearPosition\obj\Debug\net6.0\ref\StringAppearPosition.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringAppearPosition\obj\Debug\net6.0\StringAppearPosition.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringAppearPosition\obj\Debug\net6.0\StringAppearPosition.genruntimeconfig.cache

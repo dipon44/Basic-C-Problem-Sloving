@@ -11,3 +11,16 @@ D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringCharacter\ob
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringCharacter\obj\Debug\netcoreapp3.1\StringCharacter.dll
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringCharacter\obj\Debug\netcoreapp3.1\StringCharacter.pdb
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringCharacter\obj\Debug\netcoreapp3.1\StringCharacter.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringCharacter\bin\Debug\netcoreapp3.1\StringCharacter.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringCharacter\bin\Debug\netcoreapp3.1\StringCharacter.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringCharacter\bin\Debug\netcoreapp3.1\StringCharacter.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringCharacter\bin\Debug\netcoreapp3.1\StringCharacter.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringCharacter\bin\Debug\netcoreapp3.1\StringCharacter.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringCharacter\bin\Debug\netcoreapp3.1\StringCharacter.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringCharacter\obj\Debug\netcoreapp3.1\StringCharacter.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringCharacter\obj\Debug\netcoreapp3.1\StringCharacter.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringCharacter\obj\Debug\netcoreapp3.1\StringCharacter.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringCharacter\obj\Debug\netcoreapp3.1\StringCharacter.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringCharacter\obj\Debug\netcoreapp3.1\StringCharacter.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringCharacter\obj\Debug\netcoreapp3.1\StringCharacter.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringCharacter\obj\Debug\netcoreapp3.1\StringCharacter.genruntimeconfig.cache

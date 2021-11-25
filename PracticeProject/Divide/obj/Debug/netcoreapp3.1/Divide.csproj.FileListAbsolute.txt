@@ -11,3 +11,17 @@ E:\Dipon Working Folder\Practice\C#\PracticeProject\Divide\bin\Debug\netcoreapp3
 E:\Dipon Working Folder\Practice\C#\PracticeProject\Divide\obj\Debug\netcoreapp3.1\Divide.dll
 E:\Dipon Working Folder\Practice\C#\PracticeProject\Divide\obj\Debug\netcoreapp3.1\Divide.pdb
 E:\Dipon Working Folder\Practice\C#\PracticeProject\Divide\obj\Debug\netcoreapp3.1\Divide.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Divide\bin\Debug\netcoreapp3.1\Divide.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Divide\bin\Debug\netcoreapp3.1\Divide.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Divide\bin\Debug\netcoreapp3.1\Divide.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Divide\bin\Debug\netcoreapp3.1\Divide.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Divide\bin\Debug\netcoreapp3.1\Divide.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Divide\bin\Debug\netcoreapp3.1\Divide.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Divide\obj\Debug\netcoreapp3.1\Divide.csproj.AssemblyReference.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Divide\obj\Debug\netcoreapp3.1\Divide.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Divide\obj\Debug\netcoreapp3.1\Divide.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Divide\obj\Debug\netcoreapp3.1\Divide.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Divide\obj\Debug\netcoreapp3.1\Divide.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Divide\obj\Debug\netcoreapp3.1\Divide.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Divide\obj\Debug\netcoreapp3.1\Divide.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Divide\obj\Debug\netcoreapp3.1\Divide.genruntimeconfig.cache

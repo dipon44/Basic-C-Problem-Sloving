@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "01dlNH1RvSDEdyohGHku2U5Mwd7hN8gmO6QpZs6Ivhv5pyYCXC8+xqB/EkyD2tfZsomrt0VPJAVkBIz03BMggA==",
+  "dgSpecHash": "zh0sy3tLbjqTnLTB8Lh7wfWhhpB1bvBF2X9QrzpQBYC+NqoVAR0a4qupPUYYjHlz+PmJY8MZ5QsaY1d8OwIK0w==",
   "success": true,
-  "projectFilePath": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Rectangular\\Rectangular.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\DEVS\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Rectangular\\Rectangular.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jlTvllg8Epuv952WTX3/xQe356tAxlZ2jLfYCY5bZCNXaGOp4n/xWbpeqvHexYFwqQ6hhgkEg9Kyo95EPGu8tQ==",
+  "dgSpecHash": "/+AC5Lw+xI7qW9+jPyR8y6Ey8DeZrq3OpzTE0ZcCegbYJSAEApGreZxM0EqGyWby4HbAfxDlTChpqcI35AWrvA==",
   "success": true,
-  "projectFilePath": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\AbsoluteValue\\AbsoluteValue.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\DEVS\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\AbsoluteValue\\AbsoluteValue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\RangeCheck\bin\Debug\net6.0\RangeCheck.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\RangeCheck\bin\Debug\net6.0\RangeCheck.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\RangeCheck\bin\Debug\net6.0\RangeCheck.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\RangeCheck\bin\Debug\net6.0\RangeCheck.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\RangeCheck\bin\Debug\net6.0\ref\RangeCheck.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\RangeCheck\bin\Debug\net6.0\RangeCheck.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\RangeCheck\obj\Debug\net6.0\RangeCheck.csproj.AssemblyReference.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\RangeCheck\obj\Debug\net6.0\RangeCheck.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\RangeCheck\obj\Debug\net6.0\RangeCheck.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\RangeCheck\obj\Debug\net6.0\RangeCheck.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\RangeCheck\obj\Debug\net6.0\RangeCheck.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\RangeCheck\obj\Debug\net6.0\RangeCheck.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\RangeCheck\obj\Debug\net6.0\ref\RangeCheck.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\RangeCheck\obj\Debug\net6.0\RangeCheck.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\RangeCheck\obj\Debug\net6.0\RangeCheck.genruntimeconfig.cache

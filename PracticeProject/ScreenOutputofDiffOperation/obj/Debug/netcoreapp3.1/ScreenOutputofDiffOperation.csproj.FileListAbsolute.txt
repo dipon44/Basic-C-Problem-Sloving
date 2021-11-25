@@ -10,3 +10,16 @@ E:\Dipon Working Folder\Practice\C#\PracticeProject\ScreenOutputofDiffOperation\
 E:\Dipon Working Folder\Practice\C#\PracticeProject\ScreenOutputofDiffOperation\obj\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.dll
 E:\Dipon Working Folder\Practice\C#\PracticeProject\ScreenOutputofDiffOperation\obj\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.pdb
 E:\Dipon Working Folder\Practice\C#\PracticeProject\ScreenOutputofDiffOperation\obj\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ScreenOutputofDiffOperation\bin\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ScreenOutputofDiffOperation\bin\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ScreenOutputofDiffOperation\bin\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ScreenOutputofDiffOperation\bin\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ScreenOutputofDiffOperation\bin\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ScreenOutputofDiffOperation\bin\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ScreenOutputofDiffOperation\obj\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ScreenOutputofDiffOperation\obj\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ScreenOutputofDiffOperation\obj\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ScreenOutputofDiffOperation\obj\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ScreenOutputofDiffOperation\obj\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ScreenOutputofDiffOperation\obj\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ScreenOutputofDiffOperation\obj\Debug\netcoreapp3.1\ScreenOutputofDiffOperation.genruntimeconfig.cache

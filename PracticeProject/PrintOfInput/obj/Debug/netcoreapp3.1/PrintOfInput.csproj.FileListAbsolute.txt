@@ -10,3 +10,16 @@ E:\Dipon Working Folder\Practice\C#\PracticeProject\PrintOfInput\obj\Debug\netco
 E:\Dipon Working Folder\Practice\C#\PracticeProject\PrintOfInput\obj\Debug\netcoreapp3.1\PrintOfInput.dll
 E:\Dipon Working Folder\Practice\C#\PracticeProject\PrintOfInput\obj\Debug\netcoreapp3.1\PrintOfInput.pdb
 E:\Dipon Working Folder\Practice\C#\PracticeProject\PrintOfInput\obj\Debug\netcoreapp3.1\PrintOfInput.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\PrintOfInput\bin\Debug\netcoreapp3.1\PrintOfInput.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\PrintOfInput\bin\Debug\netcoreapp3.1\PrintOfInput.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\PrintOfInput\bin\Debug\netcoreapp3.1\PrintOfInput.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\PrintOfInput\bin\Debug\netcoreapp3.1\PrintOfInput.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\PrintOfInput\bin\Debug\netcoreapp3.1\PrintOfInput.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\PrintOfInput\bin\Debug\netcoreapp3.1\PrintOfInput.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\PrintOfInput\obj\Debug\netcoreapp3.1\PrintOfInput.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\PrintOfInput\obj\Debug\netcoreapp3.1\PrintOfInput.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\PrintOfInput\obj\Debug\netcoreapp3.1\PrintOfInput.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\PrintOfInput\obj\Debug\netcoreapp3.1\PrintOfInput.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\PrintOfInput\obj\Debug\netcoreapp3.1\PrintOfInput.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\PrintOfInput\obj\Debug\netcoreapp3.1\PrintOfInput.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\PrintOfInput\obj\Debug\netcoreapp3.1\PrintOfInput.genruntimeconfig.cache

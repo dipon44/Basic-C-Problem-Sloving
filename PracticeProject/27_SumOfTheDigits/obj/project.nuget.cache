@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "b8S46snlEA5Rg1GBHvlVt5mDflBmJ98JlBtO4tFSHxa1DOsz7pQSOjzKgVPu4TxDoJgnfgW36oAg0facPXkVjQ==",
+  "dgSpecHash": "Zc9cJ6YLEGvx+J3MLLjOz7Tc/I3uz2ouyCXKI7SprOpNN2umJVVorExCTQfypLdyNnKnUPKIEU5G8LmIppWlkg==",
   "success": true,
-  "projectFilePath": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\27_SumOfTheDigits\\27_SumOfTheDigits.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\DEVS\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\27_SumOfTheDigits\\27_SumOfTheDigits.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -11,3 +11,17 @@ D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\De
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.dll
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.pdb
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\bin\Debug\netcoreapp3.1\CheckTheSum.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\bin\Debug\netcoreapp3.1\CheckTheSum.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\bin\Debug\netcoreapp3.1\CheckTheSum.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\bin\Debug\netcoreapp3.1\CheckTheSum.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\bin\Debug\netcoreapp3.1\CheckTheSum.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\bin\Debug\netcoreapp3.1\CheckTheSum.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.csproj.AssemblyReference.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CheckTheSum\obj\Debug\netcoreapp3.1\CheckTheSum.genruntimeconfig.cache

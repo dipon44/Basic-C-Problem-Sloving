@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gfVw3cobYtll7x72XrhT3RoHzJ/vf+5i7LK1B8a13WCS1LVh4Bn83TOVTFdlVPXXFjVti9C39vJ7LG1MkP8+xg==",
+  "dgSpecHash": "m+RZz5f7eP+JouPsWLoI2pyVeoOCu8LihEOPir1uV30bnTzFvDJgR0OdsOOCvHvI5/zqE72FF8AsMluIKs3dSw==",
   "success": true,
-  "projectFilePath": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\MultiplicationTable\\MultiplicationTable.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\DEVS\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\MultiplicationTable\\MultiplicationTable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

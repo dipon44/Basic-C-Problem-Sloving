@@ -1,0 +1,15 @@
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringofTwoCharacters\obj\Debug\net6.0\NewStringofTwoCharacters.csproj.AssemblyReference.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringofTwoCharacters\obj\Debug\net6.0\NewStringofTwoCharacters.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringofTwoCharacters\obj\Debug\net6.0\NewStringofTwoCharacters.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringofTwoCharacters\obj\Debug\net6.0\NewStringofTwoCharacters.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringofTwoCharacters\obj\Debug\net6.0\NewStringofTwoCharacters.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringofTwoCharacters\bin\Debug\net6.0\NewStringofTwoCharacters.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringofTwoCharacters\bin\Debug\net6.0\NewStringofTwoCharacters.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringofTwoCharacters\bin\Debug\net6.0\NewStringofTwoCharacters.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringofTwoCharacters\bin\Debug\net6.0\NewStringofTwoCharacters.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringofTwoCharacters\bin\Debug\net6.0\ref\NewStringofTwoCharacters.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringofTwoCharacters\bin\Debug\net6.0\NewStringofTwoCharacters.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringofTwoCharacters\obj\Debug\net6.0\NewStringofTwoCharacters.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringofTwoCharacters\obj\Debug\net6.0\ref\NewStringofTwoCharacters.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringofTwoCharacters\obj\Debug\net6.0\NewStringofTwoCharacters.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringofTwoCharacters\obj\Debug\net6.0\NewStringofTwoCharacters.genruntimeconfig.cache

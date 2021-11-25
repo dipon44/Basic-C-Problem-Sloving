@@ -10,3 +10,16 @@ E:\Dipon Working Folder\Practice\C#\PracticeProject\Average\obj\Debug\netcoreapp
 E:\Dipon Working Folder\Practice\C#\PracticeProject\Average\obj\Debug\netcoreapp3.1\Average.dll
 E:\Dipon Working Folder\Practice\C#\PracticeProject\Average\obj\Debug\netcoreapp3.1\Average.pdb
 E:\Dipon Working Folder\Practice\C#\PracticeProject\Average\obj\Debug\netcoreapp3.1\Average.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Average\bin\Debug\netcoreapp3.1\Average.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Average\bin\Debug\netcoreapp3.1\Average.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Average\bin\Debug\netcoreapp3.1\Average.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Average\bin\Debug\netcoreapp3.1\Average.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Average\obj\Debug\netcoreapp3.1\Average.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Average\obj\Debug\netcoreapp3.1\Average.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Average\obj\Debug\netcoreapp3.1\Average.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Average\obj\Debug\netcoreapp3.1\Average.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Average\obj\Debug\netcoreapp3.1\Average.genruntimeconfig.cache

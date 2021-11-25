@@ -10,3 +10,17 @@ F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\o
 F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\obj\Debug\netcoreapp3.1\27_SumOfTheDigits.dll
 F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\obj\Debug\netcoreapp3.1\27_SumOfTheDigits.pdb
 F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\obj\Debug\netcoreapp3.1\27_SumOfTheDigits.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\bin\Debug\netcoreapp3.1\27_SumOfTheDigits.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\bin\Debug\netcoreapp3.1\27_SumOfTheDigits.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\bin\Debug\netcoreapp3.1\27_SumOfTheDigits.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\bin\Debug\netcoreapp3.1\27_SumOfTheDigits.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\bin\Debug\netcoreapp3.1\27_SumOfTheDigits.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\bin\Debug\netcoreapp3.1\27_SumOfTheDigits.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\obj\Debug\netcoreapp3.1\27_SumOfTheDigits.csproj.AssemblyReference.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\obj\Debug\netcoreapp3.1\27_SumOfTheDigits.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\obj\Debug\netcoreapp3.1\27_SumOfTheDigits.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\obj\Debug\netcoreapp3.1\27_SumOfTheDigits.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\obj\Debug\netcoreapp3.1\27_SumOfTheDigits.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\obj\Debug\netcoreapp3.1\27_SumOfTheDigits.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\obj\Debug\netcoreapp3.1\27_SumOfTheDigits.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\27_SumOfTheDigits\obj\Debug\netcoreapp3.1\27_SumOfTheDigits.genruntimeconfig.cache

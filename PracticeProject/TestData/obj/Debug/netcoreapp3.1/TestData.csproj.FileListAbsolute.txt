@@ -10,3 +10,16 @@ E:\Dipon Working Folder\Practice\C#\PracticeProject\TestData\obj\Debug\netcoreap
 E:\Dipon Working Folder\Practice\C#\PracticeProject\TestData\obj\Debug\netcoreapp3.1\TestData.dll
 E:\Dipon Working Folder\Practice\C#\PracticeProject\TestData\obj\Debug\netcoreapp3.1\TestData.pdb
 E:\Dipon Working Folder\Practice\C#\PracticeProject\TestData\obj\Debug\netcoreapp3.1\TestData.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\TestData\bin\Debug\netcoreapp3.1\TestData.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\TestData\bin\Debug\netcoreapp3.1\TestData.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\TestData\bin\Debug\netcoreapp3.1\TestData.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\TestData\bin\Debug\netcoreapp3.1\TestData.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\TestData\bin\Debug\netcoreapp3.1\TestData.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\TestData\bin\Debug\netcoreapp3.1\TestData.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\TestData\obj\Debug\netcoreapp3.1\TestData.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\TestData\obj\Debug\netcoreapp3.1\TestData.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\TestData\obj\Debug\netcoreapp3.1\TestData.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\TestData\obj\Debug\netcoreapp3.1\TestData.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\TestData\obj\Debug\netcoreapp3.1\TestData.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\TestData\obj\Debug\netcoreapp3.1\TestData.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\TestData\obj\Debug\netcoreapp3.1\TestData.genruntimeconfig.cache

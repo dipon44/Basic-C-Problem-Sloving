@@ -11,3 +11,17 @@ F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\
 F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\obj\Debug\netcoreapp3.1\FileSizeCalculator.dll
 F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\obj\Debug\netcoreapp3.1\FileSizeCalculator.pdb
 F:\C# Practice\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\obj\Debug\netcoreapp3.1\FileSizeCalculator.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\bin\Debug\netcoreapp3.1\FileSizeCalculator.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\bin\Debug\netcoreapp3.1\FileSizeCalculator.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\bin\Debug\netcoreapp3.1\FileSizeCalculator.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\bin\Debug\netcoreapp3.1\FileSizeCalculator.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\bin\Debug\netcoreapp3.1\FileSizeCalculator.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\bin\Debug\netcoreapp3.1\FileSizeCalculator.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\obj\Debug\netcoreapp3.1\FileSizeCalculator.csproj.AssemblyReference.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\obj\Debug\netcoreapp3.1\FileSizeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\obj\Debug\netcoreapp3.1\FileSizeCalculator.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\obj\Debug\netcoreapp3.1\FileSizeCalculator.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\obj\Debug\netcoreapp3.1\FileSizeCalculator.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\obj\Debug\netcoreapp3.1\FileSizeCalculator.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\obj\Debug\netcoreapp3.1\FileSizeCalculator.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\FileSiseCalculator\obj\Debug\netcoreapp3.1\FileSizeCalculator.genruntimeconfig.cache

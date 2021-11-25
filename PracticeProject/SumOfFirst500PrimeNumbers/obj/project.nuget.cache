@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "viSPq5oixkspG0I8nlXKCD3we2wps18c0h7DyalqtxvTexHgR54FcTGIR9/SD29bMbJXLvXDFbv36qfUC8t5yA==",
+  "dgSpecHash": "UNA9H+6k7TZjec+NQBIFe0vZz49ylKoGI4LulH5FFojouZi/hOQLXRCq7UtU3oQAyl3zuYIGmi1GesX1sodB6g==",
   "success": true,
-  "projectFilePath": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\SumOfFirst500PrimeNumbers\\SumOfFirst500PrimeNumbers.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\DEVS\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\SumOfFirst500PrimeNumbers\\SumOfFirst500PrimeNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

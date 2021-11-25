@@ -10,3 +10,16 @@ E:\Dipon Working Folder\Practice\C#\PracticeProject\Multiply\obj\Debug\netcoreap
 E:\Dipon Working Folder\Practice\C#\PracticeProject\Multiply\obj\Debug\netcoreapp3.1\Multiply.dll
 E:\Dipon Working Folder\Practice\C#\PracticeProject\Multiply\obj\Debug\netcoreapp3.1\Multiply.pdb
 E:\Dipon Working Folder\Practice\C#\PracticeProject\Multiply\obj\Debug\netcoreapp3.1\Multiply.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Multiply\bin\Debug\netcoreapp3.1\Multiply.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Multiply\bin\Debug\netcoreapp3.1\Multiply.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Multiply\bin\Debug\netcoreapp3.1\Multiply.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Multiply\bin\Debug\netcoreapp3.1\Multiply.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Multiply\bin\Debug\netcoreapp3.1\Multiply.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Multiply\bin\Debug\netcoreapp3.1\Multiply.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Multiply\obj\Debug\netcoreapp3.1\Multiply.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Multiply\obj\Debug\netcoreapp3.1\Multiply.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Multiply\obj\Debug\netcoreapp3.1\Multiply.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Multiply\obj\Debug\netcoreapp3.1\Multiply.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Multiply\obj\Debug\netcoreapp3.1\Multiply.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Multiply\obj\Debug\netcoreapp3.1\Multiply.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Multiply\obj\Debug\netcoreapp3.1\Multiply.genruntimeconfig.cache

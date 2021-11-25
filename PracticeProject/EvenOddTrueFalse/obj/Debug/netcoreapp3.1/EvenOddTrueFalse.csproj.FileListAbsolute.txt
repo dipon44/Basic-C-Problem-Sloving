@@ -11,3 +11,16 @@ D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\o
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\obj\Debug\netcoreapp3.1\EvenOddTrueFalse.dll
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\obj\Debug\netcoreapp3.1\EvenOddTrueFalse.pdb
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\obj\Debug\netcoreapp3.1\EvenOddTrueFalse.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\bin\Debug\netcoreapp3.1\EvenOddTrueFalse.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\bin\Debug\netcoreapp3.1\EvenOddTrueFalse.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\bin\Debug\netcoreapp3.1\EvenOddTrueFalse.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\bin\Debug\netcoreapp3.1\EvenOddTrueFalse.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\bin\Debug\netcoreapp3.1\EvenOddTrueFalse.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\bin\Debug\netcoreapp3.1\EvenOddTrueFalse.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\obj\Debug\netcoreapp3.1\EvenOddTrueFalse.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\obj\Debug\netcoreapp3.1\EvenOddTrueFalse.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\obj\Debug\netcoreapp3.1\EvenOddTrueFalse.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\obj\Debug\netcoreapp3.1\EvenOddTrueFalse.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\obj\Debug\netcoreapp3.1\EvenOddTrueFalse.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\obj\Debug\netcoreapp3.1\EvenOddTrueFalse.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\EvenOddTrueFalse\obj\Debug\netcoreapp3.1\EvenOddTrueFalse.genruntimeconfig.cache

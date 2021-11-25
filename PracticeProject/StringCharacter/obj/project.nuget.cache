@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "VExWACho8tnp4NkVgYaa0AU7zhE2jsmr3IAV9WTSdLVYPUXAat//XoAiYT7sYrJDXsLnW7pqdcYNidfGboHLdQ==",
+  "dgSpecHash": "rTkm+zgO27x6VVrH2prW0kA6NOPdKqDFquNOTzv9PNoUKUsVoDWp3tH1lW0LSygdRWz3PMyle6Z5VCN+Bvspvg==",
   "success": true,
-  "projectFilePath": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\StringCharacter\\StringCharacter.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\DEVS\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\StringCharacter\\StringCharacter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

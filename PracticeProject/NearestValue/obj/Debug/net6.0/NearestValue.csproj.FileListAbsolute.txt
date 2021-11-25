@@ -1,0 +1,14 @@
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NearestValue\obj\Debug\net6.0\NearestValue.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NearestValue\obj\Debug\net6.0\NearestValue.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NearestValue\obj\Debug\net6.0\NearestValue.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NearestValue\obj\Debug\net6.0\NearestValue.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NearestValue\bin\Debug\net6.0\NearestValue.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NearestValue\bin\Debug\net6.0\NearestValue.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NearestValue\bin\Debug\net6.0\NearestValue.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NearestValue\bin\Debug\net6.0\NearestValue.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NearestValue\bin\Debug\net6.0\ref\NearestValue.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NearestValue\bin\Debug\net6.0\NearestValue.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NearestValue\obj\Debug\net6.0\NearestValue.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NearestValue\obj\Debug\net6.0\ref\NearestValue.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NearestValue\obj\Debug\net6.0\NearestValue.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NearestValue\obj\Debug\net6.0\NearestValue.genruntimeconfig.cache

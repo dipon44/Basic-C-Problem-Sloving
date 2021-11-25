@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Edan2THx6+9Q63kdNMmqgVr58zcRG8fu07jGJvup9Gngx/2NpSnb51R+UPrWhx2zjjs7L8Q8lgYupo58T54yGQ==",
+  "dgSpecHash": "2YKyJgnDPPQ+Wb/sWqvophBp24s1tQb3h3tGzBxzyJZWis/sdmQPsM40r/cD57nnc7idZjBN/lPg1zqPd/Ia7A==",
   "success": true,
-  "projectFilePath": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\FileSiseCalculator\\FileSizeCalculator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\DEVS\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\FileSiseCalculator\\FileSizeCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -11,3 +11,17 @@ D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debu
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.dll
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.pdb
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\bin\Debug\netcoreapp3.1\ODDNumber.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\bin\Debug\netcoreapp3.1\ODDNumber.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\bin\Debug\netcoreapp3.1\ODDNumber.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\bin\Debug\netcoreapp3.1\ODDNumber.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\bin\Debug\netcoreapp3.1\ODDNumber.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\bin\Debug\netcoreapp3.1\ODDNumber.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.csproj.AssemblyReference.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\ODDNumber\obj\Debug\netcoreapp3.1\ODDNumber.genruntimeconfig.cache

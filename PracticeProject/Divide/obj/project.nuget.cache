@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "z6KNXWUqHr7Gy0SUPtO8eqLlhrK2eo4VMZ2uIQX64YpSXLWXP5lfZmp/2Oj2hWqAEsuWJuLDD9gTEOPXrk5WwQ==",
+  "dgSpecHash": "Z668LPRdr9o0TMX83ebO7huR6amFUe83aLnVNwyrYQTGZG0q2ILiRmRbdf4QcvKrSZ/p6XQER+W+BRj9qHtxmA==",
   "success": true,
-  "projectFilePath": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Divide\\Divide.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\DEVS\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Divide\\Divide.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

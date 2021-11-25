@@ -10,3 +10,16 @@ E:\Dipon Working Folder\Practice\C#\PracticeProject\MultiplicationTable\obj\Debu
 E:\Dipon Working Folder\Practice\C#\PracticeProject\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.dll
 E:\Dipon Working Folder\Practice\C#\PracticeProject\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.pdb
 E:\Dipon Working Folder\Practice\C#\PracticeProject\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.genruntimeconfig.cache

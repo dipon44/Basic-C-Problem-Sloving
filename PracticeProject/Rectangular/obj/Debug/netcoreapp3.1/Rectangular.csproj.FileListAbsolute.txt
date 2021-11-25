@@ -11,3 +11,16 @@ D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\Rectangular\obj\De
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\Rectangular\obj\Debug\netcoreapp3.1\Rectangular.dll
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\Rectangular\obj\Debug\netcoreapp3.1\Rectangular.pdb
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\Rectangular\obj\Debug\netcoreapp3.1\Rectangular.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Rectangular\bin\Debug\netcoreapp3.1\Rectangular.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Rectangular\bin\Debug\netcoreapp3.1\Rectangular.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Rectangular\bin\Debug\netcoreapp3.1\Rectangular.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Rectangular\bin\Debug\netcoreapp3.1\Rectangular.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Rectangular\bin\Debug\netcoreapp3.1\Rectangular.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Rectangular\bin\Debug\netcoreapp3.1\Rectangular.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Rectangular\obj\Debug\netcoreapp3.1\Rectangular.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Rectangular\obj\Debug\netcoreapp3.1\Rectangular.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Rectangular\obj\Debug\netcoreapp3.1\Rectangular.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Rectangular\obj\Debug\netcoreapp3.1\Rectangular.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Rectangular\obj\Debug\netcoreapp3.1\Rectangular.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Rectangular\obj\Debug\netcoreapp3.1\Rectangular.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Rectangular\obj\Debug\netcoreapp3.1\Rectangular.genruntimeconfig.cache

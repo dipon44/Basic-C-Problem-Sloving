@@ -11,3 +11,17 @@ E:\Dipon Working Folder\Practice\C#\PracticeProject\Hello\obj\Debug\netcoreapp3.
 E:\Dipon Working Folder\Practice\C#\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.dll
 E:\Dipon Working Folder\Practice\C#\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.pdb
 E:\Dipon Working Folder\Practice\C#\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Hello\bin\Debug\netcoreapp3.1\Hello.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Hello\bin\Debug\netcoreapp3.1\Hello.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Hello\bin\Debug\netcoreapp3.1\Hello.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Hello\bin\Debug\netcoreapp3.1\Hello.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Hello\bin\Debug\netcoreapp3.1\Hello.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.csproj.AssemblyReference.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Hello\obj\Debug\netcoreapp3.1\Hello.genruntimeconfig.cache

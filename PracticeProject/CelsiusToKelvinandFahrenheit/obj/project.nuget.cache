@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/gjBwqz39biDOlGLJqqOgirpkQvYW57X8KofYAWIAK9Zi3S6PHg5NQZQStyuOnHgJexxry5moS+sw2ks+a7f+A==",
+  "dgSpecHash": "kJXHak1LTQj9uQaHIPhCmZWtYZwtjmVn0QDfs3xq+yiSTj/PuiX/d5cTDFvn0sAu73D3XKX7iZvmF8u8V79D1w==",
   "success": true,
-  "projectFilePath": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\CelsiusToKelvinandFahrenheit\\CelsiusToKelvinandFahrenheit.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\DEVS\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\CelsiusToKelvinandFahrenheit\\CelsiusToKelvinandFahrenheit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

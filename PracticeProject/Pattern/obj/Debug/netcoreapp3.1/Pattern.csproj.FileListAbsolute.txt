@@ -10,3 +10,17 @@ E:\Dipon Working Folder\Practice\C#\PracticeProject\Pattern\obj\Debug\netcoreapp
 E:\Dipon Working Folder\Practice\C#\PracticeProject\Pattern\obj\Debug\netcoreapp3.1\Pattern.dll
 E:\Dipon Working Folder\Practice\C#\PracticeProject\Pattern\obj\Debug\netcoreapp3.1\Pattern.pdb
 E:\Dipon Working Folder\Practice\C#\PracticeProject\Pattern\obj\Debug\netcoreapp3.1\Pattern.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Pattern\bin\Debug\netcoreapp3.1\Pattern.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Pattern\bin\Debug\netcoreapp3.1\Pattern.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Pattern\bin\Debug\netcoreapp3.1\Pattern.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Pattern\bin\Debug\netcoreapp3.1\Pattern.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Pattern\obj\Debug\netcoreapp3.1\Pattern.csproj.AssemblyReference.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Pattern\obj\Debug\netcoreapp3.1\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Pattern\obj\Debug\netcoreapp3.1\Pattern.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Pattern\obj\Debug\netcoreapp3.1\Pattern.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Pattern\obj\Debug\netcoreapp3.1\Pattern.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\Pattern\obj\Debug\netcoreapp3.1\Pattern.genruntimeconfig.cache

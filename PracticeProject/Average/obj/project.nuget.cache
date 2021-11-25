@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eAB/oU8XFk2nxETKSJsIiIbcOLq3C13dpGj5X5nfV4odnuJm66Y8aJnILtnE4fhOPibunQo+gRUoB7boPUDL/A==",
+  "dgSpecHash": "rVadc1j97pNUb7kifgev476SCIe4uQKgVtzysMHHJaR9pCL2peZglf9XEGFHEUIftYBEE+OxzyTV3DS30UeTEg==",
   "success": true,
-  "projectFilePath": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Average\\Average.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\DEVS\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\Average\\Average.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

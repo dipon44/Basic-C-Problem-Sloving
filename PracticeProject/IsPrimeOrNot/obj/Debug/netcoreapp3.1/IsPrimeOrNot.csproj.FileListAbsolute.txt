@@ -11,3 +11,17 @@ D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\D
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.dll
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.pdb
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\bin\Debug\netcoreapp3.1\IsPrimeOrNot.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\bin\Debug\netcoreapp3.1\IsPrimeOrNot.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\bin\Debug\netcoreapp3.1\IsPrimeOrNot.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\bin\Debug\netcoreapp3.1\IsPrimeOrNot.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\bin\Debug\netcoreapp3.1\IsPrimeOrNot.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\bin\Debug\netcoreapp3.1\IsPrimeOrNot.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.csproj.AssemblyReference.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\IsPrimeOrNot\obj\Debug\netcoreapp3.1\IsPrimeOrNot.genruntimeconfig.cache

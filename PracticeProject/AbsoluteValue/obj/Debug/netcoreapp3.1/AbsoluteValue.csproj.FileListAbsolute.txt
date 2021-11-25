@@ -11,3 +11,17 @@ D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.dll
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.pdb
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\bin\Debug\netcoreapp3.1\AbsoluteValue.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\bin\Debug\netcoreapp3.1\AbsoluteValue.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\bin\Debug\netcoreapp3.1\AbsoluteValue.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\bin\Debug\netcoreapp3.1\AbsoluteValue.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\bin\Debug\netcoreapp3.1\AbsoluteValue.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\bin\Debug\netcoreapp3.1\AbsoluteValue.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.csproj.AssemblyReference.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\AbsoluteValue\obj\Debug\netcoreapp3.1\AbsoluteValue.genruntimeconfig.cache

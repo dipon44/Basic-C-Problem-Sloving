@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zloU+ptUbFDQMekpK7/WK73iKyFvA2VR9YQVE7xOwO2jOjQvjPJ8fN3bEOxLMt+ru9K8py431g8PLhq0MlB+Qg==",
+  "dgSpecHash": "BMb36wPqBixBo/sZfWfP3IDgTNXsLwnwdtAR0jN9Lxnd6fbvROrxl4sRNX0e5EUj6aYl8R2+TWF1+FpzyH3mqg==",
   "success": true,
-  "projectFilePath": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\StringintoLowercase\\StringintoLowercase.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\DEVS\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\StringintoLowercase\\StringintoLowercase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

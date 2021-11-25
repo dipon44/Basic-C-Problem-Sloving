@@ -11,3 +11,17 @@ D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercas
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.dll
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.pdb
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\bin\Debug\netcoreapp3.1\StringintoLowercase.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\bin\Debug\netcoreapp3.1\StringintoLowercase.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\bin\Debug\netcoreapp3.1\StringintoLowercase.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\bin\Debug\netcoreapp3.1\StringintoLowercase.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\bin\Debug\netcoreapp3.1\StringintoLowercase.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\bin\Debug\netcoreapp3.1\StringintoLowercase.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.csproj.AssemblyReference.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringintoLowercase\obj\Debug\netcoreapp3.1\StringintoLowercase.genruntimeconfig.cache

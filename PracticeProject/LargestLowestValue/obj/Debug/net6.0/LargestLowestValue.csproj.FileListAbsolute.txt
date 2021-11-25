@@ -1,0 +1,15 @@
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LargestLowestValue\bin\Debug\net6.0\LargestLowestValue.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LargestLowestValue\bin\Debug\net6.0\LargestLowestValue.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LargestLowestValue\bin\Debug\net6.0\LargestLowestValue.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LargestLowestValue\bin\Debug\net6.0\LargestLowestValue.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LargestLowestValue\bin\Debug\net6.0\ref\LargestLowestValue.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LargestLowestValue\bin\Debug\net6.0\LargestLowestValue.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LargestLowestValue\obj\Debug\net6.0\LargestLowestValue.csproj.AssemblyReference.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LargestLowestValue\obj\Debug\net6.0\LargestLowestValue.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LargestLowestValue\obj\Debug\net6.0\LargestLowestValue.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LargestLowestValue\obj\Debug\net6.0\LargestLowestValue.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LargestLowestValue\obj\Debug\net6.0\LargestLowestValue.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LargestLowestValue\obj\Debug\net6.0\LargestLowestValue.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LargestLowestValue\obj\Debug\net6.0\ref\LargestLowestValue.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LargestLowestValue\obj\Debug\net6.0\LargestLowestValue.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LargestLowestValue\obj\Debug\net6.0\LargestLowestValue.genruntimeconfig.cache

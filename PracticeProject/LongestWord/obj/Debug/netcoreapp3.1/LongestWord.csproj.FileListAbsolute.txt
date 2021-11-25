@@ -11,3 +11,17 @@ D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\De
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.dll
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.pdb
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\bin\Debug\netcoreapp3.1\LongestWord.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.csproj.AssemblyReference.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\LongestWord\obj\Debug\netcoreapp3.1\LongestWord.genruntimeconfig.cache

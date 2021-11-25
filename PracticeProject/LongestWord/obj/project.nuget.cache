@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "VtU63hrrX9/XS3mk5KMeMQTrnPo/kmAjfTBnNlLgYO22XhJ/P5LByHIfL5Zmuk0RuRlZPxv7EZNZJjx8WWmtLw==",
+  "dgSpecHash": "yPh30SpvV236CW71Mt+h8dhmmf5dHgjruon4dor53/Y4NtgPJimKb3flrKxm7BS4HDpIAzhK8A9V0IvD77R3tg==",
   "success": true,
-  "projectFilePath": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\LongestWord\\LongestWord.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\DEVS\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\LongestWord\\LongestWord.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

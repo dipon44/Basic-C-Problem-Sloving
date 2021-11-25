@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "E3gcDa7E3RiXtYQr/vwCqU9AjJjxvDxa1M+p5Yz4XAHCSC/d0A6zDKjIU2FaqwmnqhxTlF8HPTvMgQIEBSOjyQ==",
+  "dgSpecHash": "TiW26s/704aEjCLSHQYRZFKr8EbUuVjAx6OGmz/bKJ3qSLsQH6Vyo9FDgxitA1iNDl/kbAHLRNFF+sC/UhTflw==",
   "success": true,
-  "projectFilePath": "F:\\C# Practice\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\GivenIntegerIsWithin20\\GivenIntegerIsWithin20.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\DEVS\\Basic-C-Sharp-Problem-Sloving\\PracticeProject\\GivenIntegerIsWithin20\\GivenIntegerIsWithin20.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

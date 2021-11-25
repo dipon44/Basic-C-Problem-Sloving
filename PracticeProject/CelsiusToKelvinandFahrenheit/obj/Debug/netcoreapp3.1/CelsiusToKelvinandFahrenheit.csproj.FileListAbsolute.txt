@@ -11,3 +11,16 @@ D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinand
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.dll
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.pdb
 D:\Dipon&Shojib\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.genruntimeconfig.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.runtimeconfig.dev.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\bin\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\CelsiusToKelvinandFahrenheit\obj\Debug\netcoreapp3.1\CelsiusToKelvinandFahrenheit.genruntimeconfig.cache
