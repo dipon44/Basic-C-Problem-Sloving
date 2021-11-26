@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be28cf10-b0da-4788-bb80-150997902929": {
+      "ProjectGuid": "be28cf10-b0da-4788-bb80-150997902929",
+      "DisplayName": "GivenNumbersWhereOneIsLessThan100",
+      "ColorIndex": 0
+    },
+    "f24e5714-f673-4912-85b2-bf53b046c298": {
+      "ProjectGuid": "f24e5714-f673-4912-85b2-bf53b046c298",
+      "DisplayName": "GivenIntegerIsWithin20",
+      "ColorIndex": 1
+    },
+    "d98b3dac-40b6-484d-ae33-ec75089c9dbd": {
+      "ProjectGuid": "d98b3dac-40b6-484d-ae33-ec75089c9dbd",
+      "DisplayName": "GivenNumbersWhereOneIsLessThanHundred",
+      "ColorIndex": 2
+    },
+    "653ed2fc-10ce-4ab9-9b49-5d903b77b04b": {
+      "ProjectGuid": "653ed2fc-10ce-4ab9-9b49-5d903b77b04b",
+      "DisplayName": "FirstAndLastCharactersChange",
+      "ColorIndex": 3
+    },
+    "f57607c2-2a68-4160-94e8-0de043489651": {
+      "ProjectGuid": "f57607c2-2a68-4160-94e8-0de043489651",
+      "DisplayName": "LongestWord",
+      "ColorIndex": 4
+    },
+    "ffe0e2ad-2120-4819-9093-e67ecbdbf8d3": {
+      "ProjectGuid": "ffe0e2ad-2120-4819-9093-e67ecbdbf8d3",
+      "DisplayName": "27_SumOfTheDigits",
+      "ColorIndex": 5
+    },
+    "fe3c7dc2-76fe-4352-ab98-8ca5ae43a408": {
+      "ProjectGuid": "fe3c7dc2-76fe-4352-ab98-8ca5ae43a408",
+      "DisplayName": "28_Piramid",
+      "ColorIndex": 6
+    },
+    "18009c82-5a63-41fe-baee-3d8f00081a74": {
+      "ProjectGuid": "18009c82-5a63-41fe-baee-3d8f00081a74",
+      "DisplayName": "FileSizeCalculator",
+      "ColorIndex": 7
+    },
+    "b285cdff-1c61-40ce-9cd8-d139c819e094": {
+      "ProjectGuid": "b285cdff-1c61-40ce-9cd8-d139c819e094",
+      "DisplayName": "RangeCheck",
+      "ColorIndex": 8
+    },
+    "4cc5b866-40ba-4b98-b0a2-e79a16d8d24e": {
+      "ProjectGuid": "4cc5b866-40ba-4b98-b0a2-e79a16d8d24e",
+      "DisplayName": "StringAppearPosition",
+      "ColorIndex": 9
+    },
+    "704a5be5-6569-49fc-a4fd-debb1dc6998f": {
+      "ProjectGuid": "704a5be5-6569-49fc-a4fd-debb1dc6998f",
+      "DisplayName": "NewStringofTwoCharacters",
+      "ColorIndex": 10
+    },
+    "d0c4ebf5-fb42-49a2-bc04-50d3cc72d109": {
+      "ProjectGuid": "d0c4ebf5-fb42-49a2-bc04-50d3cc72d109",
+      "DisplayName": "LargestLowestValue",
+      "ColorIndex": 11
+    },
+    "22dfc601-6977-45a3-9ce4-2565a228a191": {
+      "ProjectGuid": "22dfc601-6977-45a3-9ce4-2565a228a191",
+      "DisplayName": "NearestValue",
+      "ColorIndex": 12
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0aab7576-c888-43fb-b284-c7e3981b62a3": {
+      "ProjectGuid": "0aab7576-c888-43fb-b284-c7e3981b62a3",
+      "DisplayName": "GivenStringContainsSpeceficCharacter",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

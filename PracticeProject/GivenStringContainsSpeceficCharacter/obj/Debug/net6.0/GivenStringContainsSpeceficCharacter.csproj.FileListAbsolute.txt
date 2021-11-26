@@ -1,0 +1,15 @@
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenStringContainsSpeceficCharacter\bin\Debug\net6.0\GivenStringContainsSpeceficCharacter.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenStringContainsSpeceficCharacter\bin\Debug\net6.0\GivenStringContainsSpeceficCharacter.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenStringContainsSpeceficCharacter\bin\Debug\net6.0\GivenStringContainsSpeceficCharacter.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenStringContainsSpeceficCharacter\bin\Debug\net6.0\GivenStringContainsSpeceficCharacter.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenStringContainsSpeceficCharacter\bin\Debug\net6.0\ref\GivenStringContainsSpeceficCharacter.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenStringContainsSpeceficCharacter\bin\Debug\net6.0\GivenStringContainsSpeceficCharacter.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenStringContainsSpeceficCharacter\obj\Debug\net6.0\GivenStringContainsSpeceficCharacter.csproj.AssemblyReference.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenStringContainsSpeceficCharacter\obj\Debug\net6.0\GivenStringContainsSpeceficCharacter.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenStringContainsSpeceficCharacter\obj\Debug\net6.0\GivenStringContainsSpeceficCharacter.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenStringContainsSpeceficCharacter\obj\Debug\net6.0\GivenStringContainsSpeceficCharacter.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenStringContainsSpeceficCharacter\obj\Debug\net6.0\GivenStringContainsSpeceficCharacter.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenStringContainsSpeceficCharacter\obj\Debug\net6.0\GivenStringContainsSpeceficCharacter.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenStringContainsSpeceficCharacter\obj\Debug\net6.0\ref\GivenStringContainsSpeceficCharacter.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenStringContainsSpeceficCharacter\obj\Debug\net6.0\GivenStringContainsSpeceficCharacter.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\GivenStringContainsSpeceficCharacter\obj\Debug\net6.0\GivenStringContainsSpeceficCharacter.genruntimeconfig.cache

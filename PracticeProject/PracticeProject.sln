@@ -61,17 +61,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28_Piramid", "28_Piramid\28
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileSizeCalculator", "FileSiseCalculator\FileSizeCalculator.csproj", "{18009C82-5A63-41FE-BAEE-3D8F00081A74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GivenNumbersWhereOneIsLessThanHundred", "GivenNumbersWhereOneIsLessThanHundred\GivenNumbersWhereOneIsLessThanHundred.csproj", "{D98B3DAC-40B6-484D-AE33-EC75089C9DBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GivenNumbersWhereOneIsLessThanHundred", "GivenNumbersWhereOneIsLessThanHundred\GivenNumbersWhereOneIsLessThanHundred.csproj", "{D98B3DAC-40B6-484D-AE33-EC75089C9DBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeCheck", "RangeCheck\RangeCheck.csproj", "{B285CDFF-1C61-40CE-9CD8-D139C819E094}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RangeCheck", "RangeCheck\RangeCheck.csproj", "{B285CDFF-1C61-40CE-9CD8-D139C819E094}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringAppearPosition", "StringAppearPosition\StringAppearPosition.csproj", "{4CC5B866-40BA-4B98-B0A2-E79A16D8D24E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringAppearPosition", "StringAppearPosition\StringAppearPosition.csproj", "{4CC5B866-40BA-4B98-B0A2-E79A16D8D24E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewStringofTwoCharacters", "NewStringofTwoCharacters\NewStringofTwoCharacters.csproj", "{704A5BE5-6569-49FC-A4FD-DEBB1DC6998F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewStringofTwoCharacters", "NewStringofTwoCharacters\NewStringofTwoCharacters.csproj", "{704A5BE5-6569-49FC-A4FD-DEBB1DC6998F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestLowestValue", "LargestLowestValue\LargestLowestValue.csproj", "{D0C4EBF5-FB42-49A2-BC04-50D3CC72D109}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargestLowestValue", "LargestLowestValue\LargestLowestValue.csproj", "{D0C4EBF5-FB42-49A2-BC04-50D3CC72D109}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearestValue", "NearestValue\NearestValue.csproj", "{22DFC601-6977-45A3-9CE4-2565A228A191}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NearestValue", "NearestValue\NearestValue.csproj", "{22DFC601-6977-45A3-9CE4-2565A228A191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GivenStringContainsSpeceficCharacter", "GivenStringContainsSpeceficCharacter\GivenStringContainsSpeceficCharacter.csproj", "{0AAB7576-C888-43FB-B284-C7E3981B62A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{22DFC601-6977-45A3-9CE4-2565A228A191}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22DFC601-6977-45A3-9CE4-2565A228A191}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22DFC601-6977-45A3-9CE4-2565A228A191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AAB7576-C888-43FB-B284-C7E3981B62A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AAB7576-C888-43FB-B284-C7E3981B62A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AAB7576-C888-43FB-B284-C7E3981B62A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AAB7576-C888-43FB-B284-C7E3981B62A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
