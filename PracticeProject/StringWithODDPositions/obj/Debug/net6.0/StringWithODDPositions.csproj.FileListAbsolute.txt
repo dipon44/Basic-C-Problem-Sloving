@@ -1,0 +1,15 @@
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringWithODDPositions\bin\Debug\net6.0\StringWithODDPositions.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringWithODDPositions\bin\Debug\net6.0\StringWithODDPositions.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringWithODDPositions\bin\Debug\net6.0\StringWithODDPositions.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringWithODDPositions\bin\Debug\net6.0\StringWithODDPositions.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringWithODDPositions\bin\Debug\net6.0\ref\StringWithODDPositions.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringWithODDPositions\bin\Debug\net6.0\StringWithODDPositions.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringWithODDPositions\obj\Debug\net6.0\StringWithODDPositions.csproj.AssemblyReference.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringWithODDPositions\obj\Debug\net6.0\StringWithODDPositions.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringWithODDPositions\obj\Debug\net6.0\StringWithODDPositions.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringWithODDPositions\obj\Debug\net6.0\StringWithODDPositions.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringWithODDPositions\obj\Debug\net6.0\StringWithODDPositions.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringWithODDPositions\obj\Debug\net6.0\StringWithODDPositions.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringWithODDPositions\obj\Debug\net6.0\ref\StringWithODDPositions.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringWithODDPositions\obj\Debug\net6.0\StringWithODDPositions.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringWithODDPositions\obj\Debug\net6.0\StringWithODDPositions.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringWhereFirstCharactersWillBeInLowerCase\bin\Debug\net6.0\NewStringWhereFirstCharactersWillBeInLowerCase.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringWhereFirstCharactersWillBeInLowerCase\bin\Debug\net6.0\NewStringWhereFirstCharactersWillBeInLowerCase.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringWhereFirstCharactersWillBeInLowerCase\bin\Debug\net6.0\NewStringWhereFirstCharactersWillBeInLowerCase.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringWhereFirstCharactersWillBeInLowerCase\bin\Debug\net6.0\NewStringWhereFirstCharactersWillBeInLowerCase.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringWhereFirstCharactersWillBeInLowerCase\bin\Debug\net6.0\ref\NewStringWhereFirstCharactersWillBeInLowerCase.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringWhereFirstCharactersWillBeInLowerCase\bin\Debug\net6.0\NewStringWhereFirstCharactersWillBeInLowerCase.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringWhereFirstCharactersWillBeInLowerCase\obj\Debug\net6.0\NewStringWhereFirstCharactersWillBeInLowerCase.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringWhereFirstCharactersWillBeInLowerCase\obj\Debug\net6.0\NewStringWhereFirstCharactersWillBeInLowerCase.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringWhereFirstCharactersWillBeInLowerCase\obj\Debug\net6.0\NewStringWhereFirstCharactersWillBeInLowerCase.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringWhereFirstCharactersWillBeInLowerCase\obj\Debug\net6.0\NewStringWhereFirstCharactersWillBeInLowerCase.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringWhereFirstCharactersWillBeInLowerCase\obj\Debug\net6.0\NewStringWhereFirstCharactersWillBeInLowerCase.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringWhereFirstCharactersWillBeInLowerCase\obj\Debug\net6.0\ref\NewStringWhereFirstCharactersWillBeInLowerCase.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringWhereFirstCharactersWillBeInLowerCase\obj\Debug\net6.0\NewStringWhereFirstCharactersWillBeInLowerCase.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NewStringWhereFirstCharactersWillBeInLowerCase\obj\Debug\net6.0\NewStringWhereFirstCharactersWillBeInLowerCase.genruntimeconfig.cache

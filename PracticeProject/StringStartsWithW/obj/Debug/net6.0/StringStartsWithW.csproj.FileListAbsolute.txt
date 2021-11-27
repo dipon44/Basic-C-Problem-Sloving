@@ -1,0 +1,14 @@
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringStartsWithW\obj\Debug\net6.0\StringStartsWithW.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringStartsWithW\obj\Debug\net6.0\StringStartsWithW.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringStartsWithW\obj\Debug\net6.0\StringStartsWithW.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringStartsWithW\obj\Debug\net6.0\StringStartsWithW.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringStartsWithW\bin\Debug\net6.0\StringStartsWithW.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringStartsWithW\bin\Debug\net6.0\StringStartsWithW.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringStartsWithW\bin\Debug\net6.0\StringStartsWithW.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringStartsWithW\bin\Debug\net6.0\StringStartsWithW.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringStartsWithW\bin\Debug\net6.0\ref\StringStartsWithW.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringStartsWithW\bin\Debug\net6.0\StringStartsWithW.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringStartsWithW\obj\Debug\net6.0\StringStartsWithW.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringStartsWithW\obj\Debug\net6.0\ref\StringStartsWithW.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringStartsWithW\obj\Debug\net6.0\StringStartsWithW.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\StringStartsWithW\obj\Debug\net6.0\StringStartsWithW.genruntimeconfig.cache
