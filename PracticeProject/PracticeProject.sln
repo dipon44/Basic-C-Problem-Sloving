@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello", "Hello\Hello.csproj", "{00E2384B-A318-4DE4-A5C1-A8A3A0148E18}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum", "Sum\Sum.csproj", "{22F92716-C7D3-4D29-B08F-B1AFF7EA4E5F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Divide", "Divide\Divide.csproj", "{C561B0D5-BB2C-4AAF-AFAD-19629DDE6012}"
@@ -75,11 +73,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NearestValue", "NearestValu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GivenStringContainsSpeceficCharacter", "GivenStringContainsSpeceficCharacter\GivenStringContainsSpeceficCharacter.csproj", "{0AAB7576-C888-43FB-B284-C7E3981B62A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewStringWhereFirstCharactersWillBeInLowerCase", "NewStringWhereFirstCharactersWillBeInLowerCase\NewStringWhereFirstCharactersWillBeInLowerCase.csproj", "{C7C245DF-4775-47EB-A031-07A975523DDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewStringWhereFirstCharactersWillBeInLowerCase", "NewStringWhereFirstCharactersWillBeInLowerCase\NewStringWhereFirstCharactersWillBeInLowerCase.csproj", "{C7C245DF-4775-47EB-A031-07A975523DDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringStartsWithW", "StringStartsWithW\StringStartsWithW.csproj", "{4CAB8839-7326-44E9-80C3-D91F7889E2B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringStartsWithW", "StringStartsWithW\StringStartsWithW.csproj", "{4CAB8839-7326-44E9-80C3-D91F7889E2B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringWithODDPositions", "StringWithODDPositions\StringWithODDPositions.csproj", "{E438FF63-0F5A-4F9D-8CE6-FD1D032C0524}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringWithODDPositions", "StringWithODDPositions\StringWithODDPositions.csproj", "{E438FF63-0F5A-4F9D-8CE6-FD1D032C0524}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberPresentinArray", "NumberPresentinArray\NumberPresentinArray.csproj", "{40ADD5F6-5B1D-4607-80D5-A71C5EBA42C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46_mberAppearsAsEitherTheFirstOrLastElementOfAnArrayOfItegersAndHLngthIs1OrMor", "46_mberAppearsAsEitherTheFirstOrLastElementOfAnArrayOfItegersAndHLngthIs1OrMor\46_mberAppearsAsEitherTheFirstOrLastElementOfAnArrayOfItegersAndHLngthIs1OrMor.csproj", "{67A4088F-8D18-4049-8738-C40953C34377}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,10 +89,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{00E2384B-A318-4DE4-A5C1-A8A3A0148E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{00E2384B-A318-4DE4-A5C1-A8A3A0148E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{00E2384B-A318-4DE4-A5C1-A8A3A0148E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{00E2384B-A318-4DE4-A5C1-A8A3A0148E18}.Release|Any CPU.Build.0 = Release|Any CPU
 		{22F92716-C7D3-4D29-B08F-B1AFF7EA4E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{22F92716-C7D3-4D29-B08F-B1AFF7EA4E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22F92716-C7D3-4D29-B08F-B1AFF7EA4E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -243,6 +241,14 @@ Global
 		{E438FF63-0F5A-4F9D-8CE6-FD1D032C0524}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E438FF63-0F5A-4F9D-8CE6-FD1D032C0524}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E438FF63-0F5A-4F9D-8CE6-FD1D032C0524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40ADD5F6-5B1D-4607-80D5-A71C5EBA42C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40ADD5F6-5B1D-4607-80D5-A71C5EBA42C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40ADD5F6-5B1D-4607-80D5-A71C5EBA42C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40ADD5F6-5B1D-4607-80D5-A71C5EBA42C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A4088F-8D18-4049-8738-C40953C34377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A4088F-8D18-4049-8738-C40953C34377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A4088F-8D18-4049-8738-C40953C34377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A4088F-8D18-4049-8738-C40953C34377}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

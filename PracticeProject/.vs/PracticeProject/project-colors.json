@@ -75,7 +75,42 @@
       "ProjectGuid": "0aab7576-c888-43fb-b284-c7e3981b62a3",
       "DisplayName": "GivenStringContainsSpeceficCharacter",
       "ColorIndex": 13
+    },
+    "c7c245df-4775-47eb-a031-07a975523dde": {
+      "ProjectGuid": "c7c245df-4775-47eb-a031-07a975523dde",
+      "DisplayName": "NewStringWhereFirstCharactersWillBeInLowerCase",
+      "ColorIndex": 14
+    },
+    "4cab8839-7326-44e9-80c3-d91f7889e2b5": {
+      "ProjectGuid": "4cab8839-7326-44e9-80c3-d91f7889e2b5",
+      "DisplayName": "StringStartsWithW",
+      "ColorIndex": 15
+    },
+    "e438ff63-0f5a-4f9d-8ce6-fd1d032c0524": {
+      "ProjectGuid": "e438ff63-0f5a-4f9d-8ce6-fd1d032c0524",
+      "DisplayName": "StringWithODDPositions",
+      "ColorIndex": 0
+    },
+    "40add5f6-5b1d-4607-80d5-a71c5eba42c2": {
+      "ProjectGuid": "40add5f6-5b1d-4607-80d5-a71c5eba42c2",
+      "DisplayName": "NumberPresentinArray",
+      "ColorIndex": 1
+    },
+    "a6270a57-777b-4d06-8b5e-084ee95d2810": {
+      "ProjectGuid": "a6270a57-777b-4d06-8b5e-084ee95d2810",
+      "DisplayName": "46mberAppearsAsEitherTheFirstOrLastElementOfAnArrayOfItegersAndHLngthIs1OrMore",
+      "ColorIndex": 2
+    },
+    "5352af78-0e87-41d3-92b4-916fa5832548": {
+      "ProjectGuid": "5352af78-0e87-41d3-92b4-916fa5832548",
+      "DisplayName": "46_mberAppearsAsEitherTheFirstOrLastElementOfAnArrayOfItegersAndHLngthIs1OrMore",
+      "ColorIndex": 3
+    },
+    "67a4088f-8d18-4049-8738-c40953c34377": {
+      "ProjectGuid": "67a4088f-8d18-4049-8738-c40953c34377",
+      "DisplayName": "46_mberAppearsAsEitherTheFirstOrLastElementOfAnArrayOfItegersAndHLngthIs1OrMor",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 5
 }

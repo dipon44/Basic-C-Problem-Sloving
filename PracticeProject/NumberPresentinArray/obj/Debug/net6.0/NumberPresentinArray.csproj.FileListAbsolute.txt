@@ -1,0 +1,15 @@
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NumberPresentinArray\bin\Debug\net6.0\NumberPresentinArray.exe
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NumberPresentinArray\bin\Debug\net6.0\NumberPresentinArray.deps.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NumberPresentinArray\bin\Debug\net6.0\NumberPresentinArray.runtimeconfig.json
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NumberPresentinArray\bin\Debug\net6.0\NumberPresentinArray.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NumberPresentinArray\bin\Debug\net6.0\ref\NumberPresentinArray.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NumberPresentinArray\bin\Debug\net6.0\NumberPresentinArray.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NumberPresentinArray\obj\Debug\net6.0\NumberPresentinArray.csproj.AssemblyReference.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NumberPresentinArray\obj\Debug\net6.0\NumberPresentinArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NumberPresentinArray\obj\Debug\net6.0\NumberPresentinArray.AssemblyInfoInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NumberPresentinArray\obj\Debug\net6.0\NumberPresentinArray.AssemblyInfo.cs
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NumberPresentinArray\obj\Debug\net6.0\NumberPresentinArray.csproj.CoreCompileInputs.cache
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NumberPresentinArray\obj\Debug\net6.0\NumberPresentinArray.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NumberPresentinArray\obj\Debug\net6.0\ref\NumberPresentinArray.dll
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NumberPresentinArray\obj\Debug\net6.0\NumberPresentinArray.pdb
+F:\DEVS\Basic-C-Sharp-Problem-Sloving\PracticeProject\NumberPresentinArray\obj\Debug\net6.0\NumberPresentinArray.genruntimeconfig.cache
